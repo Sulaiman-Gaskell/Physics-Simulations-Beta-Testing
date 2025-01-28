@@ -7,4 +7,4 @@ This repo contains test builds for stakeholders of the Physics Simulations proje
     1) Head over to the releases page and download the latest test build
     2) Read the release notes 
     3) Test the program based on the details provided
-    4) Report your findings by raising an issue in this repo.
+    4) Report your findings by raising an issue within this repo.
